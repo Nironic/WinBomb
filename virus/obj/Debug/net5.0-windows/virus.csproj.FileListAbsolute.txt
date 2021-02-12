@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.AssemblyInfo.cs
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\virus.exe
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\virus.deps.json
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\virus.runtimeconfig.json
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\virus.runtimeconfig.dev.json
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\virus.dll
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\ref\virus.dll
+C:\Users\admin\Desktop\virus\bin\Debug\net5.0-windows\virus.pdb
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.dll
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\ref\virus.dll
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.pdb
+C:\Users\admin\Desktop\virus\obj\Debug\net5.0-windows\virus.genruntimeconfig.cache
